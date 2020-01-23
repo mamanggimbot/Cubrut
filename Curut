@@ -23,7 +23,7 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sy3qdRJ/Trans-tv.png" group-title="Local", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NKyZS1J/Trans-7.png" group-title="Local", TRANS7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NKyZS1J/Trans-7.png" group-title="ILocal", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Zr0qym/Metro-tv.png" group-title="Local", Metro TV
@@ -183,7 +183,7 @@ http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZmTMML/Crime-investigation.png" group-title="Movies", Crime Investigation
 https://anevia115.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
-#http://idxcode.streamid.tv:25251/live/stream/ID/51.ts
+http://idxcode.streamid.tv:25251/live/stream/ID/51.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
 https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJZfnHB/HBO-Signature-Asia.png" group-title="Movies", HBO Signature
@@ -200,7 +200,7 @@ https://anevia115.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp
 #http://idxcode.streamid.tv:25251/live/stream/ID/47.ts
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&amp;profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1Ycnz4/Fox-Action-Movies.png" group-title="Movies", FOX Action Movies
-#http://idxcode.streamid.tv:25251/live/stream/ID/44.ts
+http://idxcode.streamid.tv:25251/live/stream/ID/44.ts
 #http://203.207.56.228/live/iptv029.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="Movies", Cinemax
 https://anevia115.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
@@ -305,241 +305,242 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 
 #Sports
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHN4mrbJ/super-soccer.png" group-title="Sports", Soccer Channel 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bF3vTPb/super-soccer.png" group-title="Sports", Soccer Channel 1
 https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHN4mrbJ/super-soccer.png" group-title="Sports", Soccer Channel 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bF3vTPb/super-soccer.png" group-title="Sports", Soccer Channel 2
 https://anevia115.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmDmh6MD/useesport-1.png" group-title="Sports", Liga Indonesia 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="Sports", Liga Indonesia 1
 https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBdTtFPG/useesports2.png" group-title="Sports", Liga Indonesia 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="Sports", Liga Indonesia 2
 https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05m6NMbj/fight-sport.png" group-title="Sports", Fight Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6bSmKCL/fight-sport.png" group-title="Sports", Fight Sports
 https://anevia115.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVXcLJ9d/Egg-Network.png" group-title="Sports",Egg Network
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G0yDpr7/Egg-Network.png" group-title="Sports",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1ygQRdJ/foxsport1.png" group-title="Sports",FOX Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="Sports",FOX Sport 1
 https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjFRJGjc/foxsport2.png" group-title="Sports",FOX Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="Sports",FOX Sport 2
 https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #https://www.livedoomovie.com/02_FoxSport2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dktxzbf/foxsport3.png" group-title="Sports",FOX Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2JXpRd/foxsport3.png" group-title="Sports",FOX Sport 3
 https://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png" group-title="Sports",Real Madrid TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85K8RLS/Real-Madrid.png" group-title="Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ym8G6zx/Champions-tv-1.png" group-title="Sports", Champions tv 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7r7V3zg/Champions-tv-1.png" group-title="Sports", Champions tv 1
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="Sports", Champions tv 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GTxPW1M/champions-tv-2.png" group-title="Sports", Champions tv 2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports", Sony Six
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports", Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony Ten 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony Ten 2
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony Ten 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Sports",Sony ESPN
+#EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTyW3Wcq/bein1.png" group-title="Sports", BeinSport 1 ID
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1 ID
 https://dl.dropbox.com/s/omttlx53wpraf77/Bein1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6nqq7L0/bein2.png" group-title="Sports", BeinSport 2 ID
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2 ID
 https://dl.dropbox.com/s/piieteu6mq49rp3/Bein2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTyW3Wcq/bein1.png" group-title="Sports", BeinSport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9NTzcZv/bein1.png" group-title="Sports", BeinSport 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6nqq7L0/bein2.png" group-title="Sports", BeinSport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tcrTFq8/bein2.png" group-title="Sports", BeinSport 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCHGT2CG/bein-sport-extra.png" group-title="Sports", BeinSport Xtra
 https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Sports", True Premier Football 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Sports", True Premier Football 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 2
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Sports", True Premier Football 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 3
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Sports", True Premier Football 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 4
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBK3X9tF/True-premier-1.png" group-title="Sports", True Premier Football 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 5
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XY1k4Gzq/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
 http://idxcode.streamid.tv:25251/live/stream/ID/82.ts
 #http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XY1k4Gzq/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
 #http://62.210.157.198:80/live.ts?channelId=6675&deviceMac=00:1A:79:3B:44:E5&uid=1726
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZZnFMXj/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mh9rHTZ/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
 http://idxcode.streamid.tv:25251/live/stream/ID/89.ts
 #http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZZnFMXj/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mh9rHTZ/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
 #http://62.210.157.198:80/live.ts?channelId=6676&deviceMac=00:1A:79:3B:44:E5&uid=1726
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpZPs0r1/Astro-Super-Sport-3.png" group-title="Sports", Astro Super Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/18V7d9Z/Astro-Super-Sport-3.png" group-title="Sports", Astro Super Sport 3
 http://idxcode.streamid.tv:25251/live/stream/ID/87.ts
 #http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpZPs0r1/Astro-Super-Sport-3.png" group-title="Sports", Astro Super Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/18V7d9Z/Astro-Super-Sport-3.png" group-title="Sports", Astro Super Sport 3
 #http://62.210.157.198:80/live.ts?channelId=6673&deviceMac=00:1A:79:3B:44:E5&uid=1726
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5VF4J0c/Astro-Super-Sport-4.png" group-title="Sports", Astro Super Sport 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s2kTrbC/Astro-Super-Sport-4.png" group-title="Sports", Astro Super Sport 4
 http://idxcode.streamid.tv:25251/live/stream/ID/86.ts
 #http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5VF4J0c/Astro-Super-Sport-4.png" group-title="Sports", Astro Super Sport 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s2kTrbC/Astro-Super-Sport-4.png" group-title="Sports", Astro Super Sport 4
 #http://62.210.157.198:80/live.ts?channelId=6674&deviceMac=00:1A:79:3B:44:E5&uid=1726
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zNwSWF7/NBA-tv.png" group-title="Sports", NBA Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Q5KwXM/NBA-tv.png" group-title="Sports", NBA Tv
 https://livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #https://dl.dropbox.com/s/lowsyo1x89xaymt/NBATV.m3u8?dl=0
 #http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1747
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzXx8Mnx/Arena-Sport-1.png" group-title="Sports",Arena Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ydg3VLK/Arena-Sport-1.png" group-title="Sports",Arena Sport 1
 https://mmm.sport7.biz/lba/ODFjYTNkN2Y1Yjk5OGI4OTAwODllMThhYjYzZmVmNWM=/g3/arena1.m3u8?token=ODFjYTNkN2Y1Yjk5OGI4OTAwODllMThhYjYzZmVmNWM=&id=MGQ4MzlhMjY4MTQyZmFhMTc2OGFmZjI0NTE2NDU3Yzg=&vip=1572756729&dip=OWQzNzA4NDY3MDk0NjI1MTZkNjJiNDNjOTFiYjQzOWU=&pip=36.71.232.99&hip=ZmUzOGIxNmI3OWVkMmRjNjU4NmVmNzNmNGZmMjI5NTA=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtPjCXWn/Arena-Sport-2.png" group-title="Sports",Arena Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vVC3CmV/Arena-Sport-2.png" group-title="Sports",Arena Sport 2
 https://sport7.ws/lba/N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=/g8/arena2sport.m3u8?token=N2E2MmUwNjE5OTIwZjRlYjM0NGM5NDI1MjA1NjY3NzQ=&id=OTFmMDRiYWRkNzgyNjMyM2I2ZGI4ZjNjYzk3N2U2NGE=&vip=1571041635&dip=ZDM1MDc1YjAxMjk3ZGQwYjA2ZmM2OWE1MDNkNDA5ODY=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCwdK0Np/Arena-Sport-3.png" group-title="Sports",Arena Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg5NY8Q/Arena-Sport-3.png" group-title="Sports",Arena Sport 3
 https://mmm.sportbar.biz/lba/YzIxNGNkNmFlOWVmZDA1OGY5N2EyZDNmNTFmY2FlOWU=/g1/sportarena3rs.m3u8?token=YzIxNGNkNmFlOWVmZDA1OGY5N2EyZDNmNTFmY2FlOWU=&id=MDUwYWQ0ODFlMjQ0ZTcxMmZmNjUzYWE5NzQzNGIzNjk=&vip=1567293225&dip=M2VkYzQ3YWZiMzkzNjVhODQ4MDEwYTZlYmQwZThhZTg=&pip=118.96.202.8&hip=ZTBkNjA5YWQwYjBlNzVkZjE5NDBhNTE1NjJmNzdkMDY=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhQjgSPk/Arena-Sport-4.png" group-title="Sports",Arena Sport 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qyLNW6j/Arena-Sport-4.png" group-title="Sports",Arena Sport 4
 https://mmm.sportbar.biz/lba/OTVjNGUzYjFiODgzMzEyNWJlZjc2M2Y5MThlNjhhNTI=/g3/arenaserbia4.m3u8?token=OTVjNGUzYjFiODgzMzEyNWJlZjc2M2Y5MThlNjhhNTI=&id=N2ViM2UxZWQ3YmVmMTA5ODY0OTdkMGQzZWJjOGEzMjE=&vip=1569325761&dip=Y2NlOTJhNDQwYWUyNmVjYzkwYjMzMGUwMTVhZmU2ZWM=&pip=36.71.234.19&hip=M2M1ZDEyYWUxNGU5OWQyN2JhNjAyYjRjMjc1MmFhMjU=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTYRRSmf/Arena-Sport-5.png" group-title="Sports",Arena Sport 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RCFNV1S/Arena-Sport-5.png" group-title="Sports",Arena Sport 5
 https://sport7.ws/lba/MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=/g7/ar5sport.m3u8?token=MDc5NmM1NjM0MDZhYTY1MDc2ZDlhMDY1YzI4ZDcyNDk=&id=MzhlMDE2NWE0MDZjNDg0ZGQzMWU3N2FkYjU1MjA1NmM=&vip=1571042024&dip=ZjMxNTU0YWJhZTk0MWVjNTg3YmRlODNlMmE3NjQzYWM=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
 
-#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-logo="https://i.postimg.cc/7PTzTtQx/ad-sport-1.png" group-title="Sports", Ad Sports 1
+#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-logo="https://i.ibb.co/vYQPzgN/ad-sport-1.png" group-title="Sports", Ad Sports 1
 http://adtv.ercdn.net:80/adsport1/adsport1.m3u8
-#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-logo="https://i.postimg.cc/cCY8y68K/ad-sport-2.png" group-title="Sports", Ad Sports 2
+#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-logo="https://i.ibb.co/hfbXWZc/ad-sport-2.png" group-title="Sports", Ad Sports 2
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1 tvg-id="abudhabisports3.ae" tvg-logo="https://i.postimg.cc/tC3VBZjw/ad-sport-3.png" group-title="Sports", Ad Sports 3
+#EXTINF:-1 tvg-id="abudhabisports3.ae" tvg-logo="https://i.ibb.co/Fw0wr4s/ad-sport-3.png" group-title="Sports", Ad Sports 3
 https://tvae.ercdn.net/adsport3/adsport3.m3u8?v=856623187
-#EXTINF:-1 tvg-id="abudhabisports4.ae" tvg-logo="https://i.postimg.cc/TYMDjjZn/ad-sport-4.png" group-title="Sports", Ad Sports 4
+#EXTINF:-1 tvg-id="abudhabisports4.ae" tvg-logo="https://i.ibb.co/vwT8Cc4/ad-sport-4.png" group-title="Sports", Ad Sports 4
 https://tvae.ercdn.net/adsport4/adsport4.m3u8?v=839379210
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRkY31pP/all-sport.png" group-title="Sports", All Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xfd5gqH/all-sport.png" group-title="Sports", All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF1LCVWm/betis-tv.png" group-title="Sports", Betis TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b19RnkS/betis-tv.png" group-title="Sports", Betis TV
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCLHbsnj/dubai-racing.png" group-title="Sports", Dubai Racing
+#EXTINF:-1 tvg-logo="https://i.ibb.co/phH6gL2/dubai-racing.png" group-title="Sports", Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBnmDk8k/KTV-sport.png" group-title="Sports", KTV Sport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFzsDY0/KTV-sport.png" group-title="Sports", KTV Sport
 https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist_b2000000.m3u8?v=609289825
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXm2RJbc/olympic-channel.png" group-title="Sports", Olympic Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PQB06d9/olympic-channel.png" group-title="Sports", Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/zXFVnsw1/Setanta-sports.png" group-title="Sports", Setanta Sports 1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/QJvtYKz/Setanta-sports.png" group-title="Sports", Setanta Sports 1
 http://92.46.127.146:8080//SetantaSport/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/zXFVnsw1/Setanta-sports.png" group-title="Sports", Setanta Sports 2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/QJvtYKz/Setanta-sports.png" group-title="Sports", Setanta Sports 2
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk6gt4fY/True-Sport-1.png" group-title="Sports",True Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gc5TQ2f/True-Sport-1.png" group-title="Sports",True Sport 1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTJb1VmB/True-Sport-2.png" group-title="Sports",True Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lp7ywLZ/True-Sport-2.png" group-title="Sports",True Sport 2
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XN2J2fGr/True-Sport-3.png" group-title="Sports",True Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6d7r46/True-Sport-3.png" group-title="Sports",True Sport 3
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTZBz9kH/True-Sport-4.png" group-title="Sports",True Sport 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGdzGKz/True-Sport-4.png" group-title="Sports",True Sport 4
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbhXHDD1/Skynet-HD.png" group-title="Sports", SkyNet Sport HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gtTMRby/Skynet-HD.png" group-title="Sports", SkyNet Sport HD
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50VYVfbj/Skynet-1.png" group-title="Sports", SkyNet Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhnQR6h/Skynet-1.png" group-title="Sports", SkyNet Sport 1
 https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHBK1PLh/Skynet-2.png" group-title="Sports", SkyNet Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8nkrSy/Skynet-2.png" group-title="Sports", SkyNet Sport 2
 https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kjc11QK2/skynet-3.png" group-title="Sports", SkyNet Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nQXzKvL/skynet-3.png" group-title="Sports", SkyNet Sport 3
 https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj252K05/Skynet-4.png" group-title="Sports", SkyNet Sport 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bL1n51x/Skynet-4.png" group-title="Sports", SkyNet Sport 4
 https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gc4wC95k/Skynet-5.png" group-title="Sports", SkyNet Sport 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBLHTF8/Skynet-5.png" group-title="Sports", SkyNet Sport 5
 https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7JZ3HSK/Skynet-6.png" group-title="Sports", SkyNet Sport 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KNp8C2X/Skynet-6.png" group-title="Sports", SkyNet Sport 6
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 
 #Film
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/gJWCqTqf/Joker.jpg" group-title="Film",Joker
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6ymTy3L/Joker.jpg" group-title="Film",Joker
 http://139.99.80.145/vod/TERBIT21.COM%20-%20Joker%20(2019).mp4
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg" group-title="Film", Jumanji : The Next Level
+#EXTINF:-1  tvg-logo="https://i.ibb.co/mCSG0wt/Jumanji-next-level.jpg" group-title="Film", Jumanji : The Next Level
 http://139.99.80.145/vod/Jumanji-%20The%20Next%20Level%20%282019%29-1080p-%5bPlanetFilm21.com%5d.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg" group-title="Film",Captain Marvel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q7kKmwL/Captain-marvel.jpg" group-title="Film",Captain Marvel
 http://139.99.80.145/vod/TERBIT21.COM%20-%20Captain%20Marvel%20(2019).mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg" group-title="Film", Alita Battle Angel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bFW9mfY/Alita-Battle-Angel.jpg" group-title="Film", Alita Battle Angel
 http://139.99.80.145/vod/%5bTV%5d%20Alita.Battle.Angel.2019.WEBDL.PROPER.ITUNES.EVO.1080p.720p.480p.WWW.SEBUAH-DONGENG.COM.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg" group-title="Film", Avenger Age Of Ultron
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GHm7fCb/Avenger-ultron.jpg" group-title="Film", Avenger Age Of Ultron
 http://139.99.80.145/vod/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.YIFY.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="Film", Avenger Infinity War
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFNWQ4R/avenger-infinity-war.jpg" group-title="Film", Avenger Infinity War
 http://139.99.80.145/vod/Avengers.Infinity.War.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52HWxv2k/John-Wick.jpg" group-title="Film",John Wick 3 : Parabellum
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JnMp71L/John-Wick.jpg" group-title="Film",John Wick 3 : Parabellum
 http://139.99.80.145/vod/John.Wick.Chapter.3.-.Parabellum.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/D6e8RJf2qUstnfkTslTXNTUAlT.jpg" group-title="Film", Ant Man
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mRRfK7R/Ant-Man.jpg" group-title="Film", Ant Man
 http://139.99.80.145/vod/ant%20man.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vueoajubjMMmDpcLOZnrU9wW95E.jpg" group-title="Film", Anna Karenina
+#EXTINF:-1 tvg-logo="https://i.ibb.co/52RfQXL/Anna-Karenina.jpg" group-title="Film", Anna Karenina
 http://139.99.80.145/vod/TERBIT21.COM%20-%20Anna%20Karenina%20(2012).mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flnoqdC38mbaulAeptjynOFO7yi.jpg" group-title="Film", Amadeus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQzjdXz/Amadeus.jpg" group-title="Film", Amadeus
 http://139.99.80.145/vod/TERBIT21.COM%20-%20Amadeus%20(1984).mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llhj3xtNes2Ri4d9HqtleKo1CfL.jpg" group-title="Film", Abominable
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgLFvd9/Abominable.jpg" group-title="Film", Abominable
 http://139.99.80.145/vod/Abmnbl%202k19%20Webrip%20HD%201080p%20x264%20AAC%206Ch%20-%20DRAYS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAgxM61Sn0dYML4C9v3MJFp5zPI.jpg" group-title="Film", Annabelle
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2jsx9T3/Annabelle.jpg" group-title="Film", Annabelle
 http://139.99.80.145/vod/Annabelle.2014.1080p.BluRay.x264.YIFY.mkv
+
 
 #VOD2019
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/gJWCqTqf/Joker.jpg" group-title="VOD2019",Joker (2019)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6ymTy3L/Joker.jpg" group-title="VOD2019",Joker (2019)
 https://www.googleapis.com/drive/v3/files/1gdsesv39yVSPlRY7WM9GyJDgTiHkeZv6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzXhcsVb/Aladin.jpg" group-title="VOD2019",Aladdin (2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NKWnDCt/Aladin.jpg" group-title="VOD2019",Aladdin (2019)
 https://www.dropbox.com/s/9p9ir5n323ubkod/Aladdin.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhMpCg02/6-Underground.jpg" group-title="VOD2019", 6 Underground(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PcDkyw2/6-Underground.jpg" group-title="VOD2019", 6 Underground(2019)
 https://www.googleapis.com/drive/v3/files/13b_vLwMkFVp3W8HgBi21pt6I91uQjVec?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTPCyHFs/The-addams-family.jpg" group-title="VOD2019", The Addams Family(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLnfNQL/The-addams-family.jpg" group-title="VOD2019", The Addams Family(2019)
 https://www.googleapis.com/drive/v3/files/1UxXzP4KKyg8nrS2h6KtPhcYQVmrP9GMy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4zW2SV8/Abominable.jpg" group-title="VOD2019", Abominable(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nwdXRLp/Abominable.jpg" group-title="VOD2019", Abominable(2019)
 https://www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3zWGzB5/Pokemon.jpg" group-title="VOD2019", Pokemon : Detective Pikachu(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrzH8vB/Pokemon.jpg" group-title="VOD2019", Pokemon : Detective Pikachu(2019)
 https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/3RFPLFtW/Avenger-endgame.jpg" group-title="VOD2019",Avengers:Endgame(2019)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/mJHX5py/Avenger-endgame.jpg" group-title="VOD2019",Avengers:Endgame(2019)
 https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/RVpz5G4H/mule.jpg" group-title="VOD2019",Mule(2019)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/02Yw1Yt/mule.jpg" group-title="VOD2019",Mule(2019)
 https://www.googleapis.com/drive/v3/files/1YsXH2V6TbScWzERFrACm9lTvBLuLobcs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6q6FF4Pc/The-Lion-King.jpg" group-title="VOD2019",The Lion King(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HYtVJvH/The-Lion-King.jpg" group-title="VOD2019",The Lion King(2019)
 https://www.googleapis.com/drive/v3/files/1AYka1PFma7JZZFNS3AwxCD2Anfa43x9k?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTr1gLf7/The-Aeronauts.jpg" group-title="VOD2019", Aeronauts(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G04DJyL/The-Aeronauts.jpg" group-title="VOD2019", Aeronauts(2019)
 https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/gcDW4m74/Cold-Pursuit.jpg" group-title="VOD2019",Cold Pursuit(2019)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/JjyYjVC/Cold-Pursuit.jpg" group-title="VOD2019",Cold Pursuit(2019)
 https://www.googleapis.com/drive/v3/files/1oSWO6PTNM1nb6TnS6PDXj0C0JdNJqRMG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyBQbfd1/Fast-Furious.jpg" group-title="VOD2019",Fast&Furious Presents : Hobbs & Shaw(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hc5PWy9/Fast-amp-Furious.jpg" group-title="VOD2019",Fast&Furious Presents : Hobbs & Shaw(2019)
 https://www.googleapis.com/drive/v3/files/1vUTJDejYeyg4sPklmsPk6RtzA1u-lMEB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/280CjrF3/AD-astra.jpg" group-title="VOD2019",AD Astra(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4z7YBJ/AD-astra.jpg" group-title="VOD2019",AD Astra(2019)
 https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLB8mJ74/Dreadout.jpg" group-title="VOD2019", Dreadout(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bdXG3Z/Dreadout.jpg" group-title="VOD2019", Dreadout(2019)
 https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MPj6hQm/Dumbo.jpg" group-title="VOD2019", Dumbo(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cYmJqgc/Dumbo.jpg" group-title="VOD2019", Dumbo(2019)
 https://cdn.clonefile.icu/drive/index.php?id=3UqhbCMEm2QSI4Znspu%2BTgWjaEHvfLLRWyVhRTdJdlHQxD6XSebaWIcqWewKF0Fj1b1%2B%2FAE5VOdsYJ%2BvANObFADrDC3UPK8hJRnzx6hv5AHQfJI44CseKWn8OR0VFvDrs%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTvSVJLT/Triple-Threat.jpg" group-title="VOD2019", Triple Threat(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zJpjxp2/Triple-Threat.jpg" group-title="VOD2019", Triple Threat(2019)
 https://gdrivecdn.us/drive/index.php?id=7ShwPFRIovlOpJ6HiWoztAM8ZKv4%2Fdd1M4W9WvlGsMFis0BlYqbl8idIKeUe%2FC4ZKGP%2FYH0LObsYIhP2ASuIE%2Fgh5MoiJMeSnl9lw82UqLq2rlZl60FTtDXNANVveypGE%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8z3DW4YS/Captive-State.jpg" group-title="VOD2019", Captive State(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxSZQkB/Captive-State.jpg" group-title="VOD2019", Captive State(2019)
 https://cdn.clonefile.icu/drive/index.php?id=yhoaj%2F6%2FSOEs%2FdJSRXbtYAVsj8t3MJBajUHW0YvvGGW6KtS9AKrbiDIS0ASHkgl8nhCq9uZ%2BudMidHP73eWMpSuF9zqhliPFFMCgRS%2B9oi2qmNm%2BkE0VNPj1WHo3e7sTg%3D&ref=&res=720
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52HWxv2k/John-Wick.jpg" group-title="VOD2019",John Wick 3 : Parabellum(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JnMp71L/John-Wick.jpg" group-title="VOD2019",John Wick 3 : Parabellum(2019)
 #https://www.dropbox.com/s/rme7r96ezkq6ceq/John.Wick.Chapter.3.Parabellum.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTGjvTyv/Code-8.jpg" group-title="VOD2019", Code 8(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2csQWKb/Code-8.jpg" group-title="VOD2019", Code 8(2019)
 #https://www.googleapis.com/drive/v3/files/1nrrkVgGmjQjD6vN3UsDSKc7QDsz7d0_n?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwtkmZWf/Rambo.jpg" group-title="VOD2019",Rambo : Last Blood(2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h2CHqK6/Rambo.jpg" group-title="VOD2019",Rambo : Last Blood(2019)
 #https://www.googleapis.com/drive/v3/files/1-7MnwQVCNCM2UJG3sfxf3smh2Zf9dw5E?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #VOD
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1ZYW73j/Alien-Covenant.jpg" group-title="VOD", Alien : Covenant(2017)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NV5xdN0/Alien-Covenant.jpg" group-title="VOD", Alien : Covenant(2017)
 https://www.googleapis.com/drive/v3/files/1fVuB4camSZcd8y1wVuzQUwPAmc5pIIpT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBYPmFvH/the-nutcracker-and-the-four-realms.jpg" group-title="VOD", The Nutcracker and the four realms(2018)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4W9sT2H/the-nutcracker-and-the-four-realms.jpg" group-title="VOD", The Nutcracker and the four realms(2018)
 https://www.googleapis.com/drive/v3/files/1B2DoTYlQAGN6wE2ZRkCUfnvH0tMkr1Ya?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yF2MLV4/Aquaman.jpg" group-title="VOD", Aquaman(2018)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4mYpJD0/Aquaman.jpg" group-title="VOD", Aquaman(2018)
 https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMz5nrHN/skyscraper.jpg" group-title="VOD", Skyscraper(2018)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LvbQc46/skyscraper.jpg" group-title="VOD", Skyscraper(2018)
 https://gdrivecdn.us/drive/index.php?id=UvXgzIIzIZXJLVdsKqnslAzmjY6or72z7As3wgmvba8XGhEHb31Bxunb693RDTVy3pwJlA72jH3YzArgv8U1TEEOfRhyMX6bh9LcEF4UZTGMId9xzAw1jvY%2BRVjdgsEGM%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVybLYvX/the-nun.jpg" group-title="VOD", The NuN(2018)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1gyYx7/the-nun.jpg" group-title="VOD", The NuN(2018)
 https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fL88t2H7/Hotel-Mumbai.jpg" group-title="VOD", Hotel Mumbai(2018)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nbDbTnS/Hotel-Mumbai.jpg" group-title="VOD", Hotel Mumbai(2018)
 https://cdn.apidev.icu/drive/index.php?id=iGQ7vCgWQYAH5sNrzEQxHAdTaBqaae%2Fmr41MVX0qm9g8FxjWLdYlueNyz9uUc%2FLjIqJsP0LN%2F1Lj0BrfHZdbwjopXUoSXqwZMmSCD2%2B2Ig294DaPba5ir0dlK%2Fob3UpZY%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNcG3brt/Fantastic-beast-2018.jpg" group-title="VOD", Fantastic Beasts: The Crimes of Grindelwald(2018)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QfXLVhd/Fantastic-beast-2018.jpg" group-title="VOD", Fantastic Beasts: The Crimes of Grindelwald(2018)
 https://gdrivecdn.us/drive/index.php?id=E7bh4FOWcYbqG4dgwq2DxwHcS3JkR59%2FdkUGLCM%2Bg2VTDZ8HwhiOyoyZstBRWhXuvn4i5mHHiAO6s0URqdoCi%2FseBoDrDez2ZxMSG5FdEB0sPdRZSewiCO0ieVa0738YU%3D&ref=&res=720
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CBKDPM0/The-Cabin.jpg" group-title="VOD", The Cabin(2018)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6v8HY7p/The-Cabin.jpg" group-title="VOD", The Cabin(2018)
 https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sfnLvXqF/Asterix-magic-potion.jpg" group-title="VOD", Asterix: The Secret of the Magic Potion(2018)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G5s05Jy/Asterix-magic-potion.jpg" group-title="VOD", Asterix: The Secret of the Magic Potion(2018)
 https://cdn.clonefile.icu/drive/index.php?id=41IpLKLI0NntH%2FJngglgMApGgMjmgZzjpUcCRuyBP5noKWK4V8MO%2FteNVF49vg34IKWy02snXkeSKRobIbK3XTjXZdhGIZ%2BB%2BywV5gUyqo7P0anLUitmN%2FEZ161D8gJkg%3D&ref=&res=720
