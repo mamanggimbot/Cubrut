@@ -282,13 +282,18 @@ https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXtwtYG/True-premier-1.png" group-title="Sports", True Premier Football 5
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
-http://idxcode.streamid.tv:25251/live/stream/ID/82.ts
+http://iptv.rent:8080/azenogiljr/aisgn720kz/53603
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch6JwfK/Astro-Super-Sport-1.png" group-title="Sports", Astro Super Sport 1
+http://iptv.rent:8080/azenogiljr/aisgn720kz/5394
+#http://idxcode.streamid.tv:25251/live/stream/ID/82.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh9rHTZ/Astro-Super-Sport-2.png" group-title="Sports", Astro Super Sport 2
-http://idxcode.streamid.tv:25251/live/stream/ID/89.ts
+http://iptv.rent:8080/azenogiljr/aisgn720kz/5393
+#http://idxcode.streamid.tv:25251/live/stream/ID/89.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/18V7d9Z/Astro-Super-Sport-3.png" group-title="Sports", Astro Super Sport 3
-http://idxcode.streamid.tv:25251/live/stream/ID/87.ts
+http://iptv.rent:8080/azenogiljr/aisgn720kz/5392
+#http://idxcode.streamid.tv:25251/live/stream/ID/87.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2kTrbC/Astro-Super-Sport-4.png" group-title="Sports", Astro Super Sport 4
-http://idxcode.streamid.tv:25251/live/stream/ID/86.ts
+#http://idxcode.streamid.tv:25251/live/stream/ID/86.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Q5KwXM/NBA-tv.png" group-title="Sports", NBA Tv
 https://dl.dropbox.com/s/lowsyo1x89xaymt/NBATV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ydg3VLK/Arena-Sport-1.png" group-title="Sports",Arena Sport 1
