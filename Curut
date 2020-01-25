@@ -13,7 +13,7 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sy3qdRJ/Trans-tv.png" group-title="Local", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NKyZS1J/Trans-7.png" group-title="ILocal", TRANS7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NKyZS1J/Trans-7.png" group-title="Local", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Zr0qym/Metro-tv.png" group-title="Local", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
@@ -63,8 +63,7 @@ http://45.126.83.51/qwr9ew/s/s14/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6n7zxnW/DMI-channel.png" group-title="Religi", DMI Channel
 http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q9ktvwY/Tv9.png" group-title="Religi", TV9
-https://anevia115.mncnow.id/live/eds/TV9/sa_hls/TV9.m3u8
-#http://202.80.222.178:80/000001/2/ch00000000000000001522/1001.m3u8?IASHttpSessionId=SLB242022019112522481628564864&ztecid=ch00000000000000001522&bandwidth=491305&ispcode=1&timeformat=local&channel=ch00000000000000001522&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjQvMjU2Lm0zdTg%3D&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+http://202.80.222.178:80/000001/2/ch00000000000000001522/1001.m3u8?IASHttpSessionId=SLB242022019112522481628564864&ztecid=ch00000000000000001522&bandwidth=491305&ispcode=1&timeformat=local&channel=ch00000000000000001522&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjQvMjU2Lm0zdTg%3D&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ns0VgF3/Tahfidz-TV.png" group-title="Religi", Tahfizh Tv
 http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MtrDwv/I-Am-Channel.png" group-title="Religi", I AM Channel
