@@ -135,6 +135,8 @@ https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-mp4a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJZfnHB/HBO-Signature-Asia.png" group-title="Movies", HBO Signature
 https://anevia115.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="Movies", HBO Family
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MDEyMjgwOH19fV19&Signature=u3wf5cvXC45Lk030hkaAVbKLWHQi6EfzI24syNosZr9tDyoie0zCVPbjhqEQ9db3nvS0JXBD53Bmd2-bdrh9A3ykIXnqme5oY5OGvHmTAPnWd0rWTJYrz6zH5HTABOJ3Ii4O6UP-SwaJ737viE9BB~6T35t~BCf6-3oAU7ouAM9806RD5cvt5~6FZ8rtkfd~PLNIEhjai17VWOY12lbjfieYXrfzEL~FbVBMi8OA5aZZWWhVu01715ZgTCCp8OBXrS26tFmaWtNTlvbFolHQD9rz0MHLivrZf-~IdeA8noyM9Z46dCRuPqcbPRSX3zI6UuTQZsrWylZpOIoFLrbh0g__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="Movies", HBO Family(backup)
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX
 https://anevia115.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
