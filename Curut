@@ -136,8 +136,6 @@ https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-mp4a
 https://anevia115.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="Movies", HBO Family
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MDI5NTYxMH19fV19&Signature=g9cclONAiSUeuwPFiKj0mzIZqcnJURyGARsvuIurXtEkJqyRgcM22P~uzGn3lQzFBnQbIR8E0d1C8sFk~WELUYuxHXFM2jN91bNutAD~ItsaxJKVj-qUhRoi~QVUQXaQtdoYpO6thbMd25hk9QV8e183mmxNMsRcYRKlBEqCF9jn4Zd8XvaTnYOdAs-MJ9GN7-GqbQTYzjt1v4bywdPc1h5kdAU0udEq0z~5IxP4LsFTCDinoxsSUsC4YcnmaoxaexGwm5kkZjeRDrn5W1W3V2dlbYwAp1ZxR~ncvkzHHhmhi7PKgT6uoBm9KqOLRUNfWvsKlFlnFfp8KDH-xw~4Rw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="Movies", HBO Family(backup)
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX
 https://anevia115.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCdsWtP/foxcrime.png" group-title="Movies", FOX Crime
