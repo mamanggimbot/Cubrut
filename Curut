@@ -141,11 +141,11 @@ https://anevia115.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCdsWtP/foxcrime.png" group-title="Movies", FOX Crime
 https://anevia115.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="Movies", FOX Movies
-http://203.207.56.228/live/iptv034.m3u8
+#http://203.207.56.228/live/iptv034.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="Movies", Cinemax
 https://anevia115.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MDI5NTYxMH19fV19&Signature=g9cclONAiSUeuwPFiKj0mzIZqcnJURyGARsvuIurXtEkJqyRgcM22P~uzGn3lQzFBnQbIR8E0d1C8sFk~WELUYuxHXFM2jN91bNutAD~ItsaxJKVj-qUhRoi~QVUQXaQtdoYpO6thbMd25hk9QV8e183mmxNMsRcYRKlBEqCF9jn4Zd8XvaTnYOdAs-MJ9GN7-GqbQTYzjt1v4bywdPc1h5kdAU0udEq0z~5IxP4LsFTCDinoxsSUsC4YcnmaoxaexGwm5kkZjeRDrn5W1W3V2dlbYwAp1ZxR~ncvkzHHhmhi7PKgT6uoBm9KqOLRUNfWvsKlFlnFfp8KDH-xw~4Rw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYb1c5V/TVN.png" group-title="Movies", TvN
 https://anevia115.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3SPBFc0/Tvn-Movies.png" group-title="Movies", TvN movies
