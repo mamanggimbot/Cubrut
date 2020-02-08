@@ -95,6 +95,8 @@ https://anevia115.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_249
 https://anevia115.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mXdGk18/boomerang.png" group-title="Kids",Boomerang
 https://anevia115.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTCtZRX/Dream-Works.png" group-title="Kids",DreamWorks
+https://jago.tv21.me/live/rayga/3456/usee/dreamworks/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cJhwxL8/Miaomi.png" group-title="Kids",Miao Mi
 https://anevia114.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi-avc1_1000000=8-mp4a_98800_eng=6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxzBCsv/horee.png" group-title="Kids", Horee
