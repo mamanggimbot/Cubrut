@@ -214,17 +214,17 @@ https://anevia115.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_en
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jRs7gvD/Redbull.png" group-title="Knowledge", Red Bull Tv
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hWYTyQ0/Discovery-channel.png" group-title="Knowledge", Discovery Chanel
-https://anevia115.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-mp4a_98800_eng=5.m3u8
+https://jago.tv21.me/live/rayga/3456/usee/disco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TYjsWL7/Animal-Planet.png" group-title="Knowledge", Animal Planet
 https://anevia115.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XYxTgx3/History.png" group-title="Knowledge",History
 https://anevia115.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpJNp7F/natgeo.png" group-title="Knowledge",Nat Geographic
-https://anevia115.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_2499968=10-mp4a_98800_eng=4.m3u8
+https://jago.tv21.me/live/rayga/3456/usee/natgeo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r7smfgp/Nat-geo-wild.png" group-title="Knowledge",Nat Geo Wild
-https://anevia115.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+https://jago.tv21.me/live/rayga/3456/usee/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RPFPMK5/nat-Geo-pople.png" group-title="Knowledge",Nat Geo People
-https://anevia115.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+https://jago.tv21.me/live/rayga/3456/usee/natgeopeople/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXJ5nsM/CGTN-doc.png" group-title="Knowledge", CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5YrnGbs/Fashion-tv.png" group-title="Knowledge", Fashion TV Teens
