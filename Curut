@@ -219,7 +219,7 @@ https://jago.tv21.me/live/rayga/3456/usee/disco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TYjsWL7/Animal-Planet.png" group-title="Knowledge", Animal Planet
 https://anevia115.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XYxTgx3/History.png" group-title="Knowledge",History
-https://anevia115.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
+https://jago.tv21.me/live/rayga/3456/usee/history/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpJNp7F/natgeo.png" group-title="Knowledge",Nat Geographic
 https://jago.tv21.me/live/rayga/3456/usee/natgeo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r7smfgp/Nat-geo-wild.png" group-title="Knowledge",Nat Geo Wild
