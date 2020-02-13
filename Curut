@@ -115,8 +115,7 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQxY5nL/animax.png" group-title="Kids",Animax
 https://anevia115.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K21P7zY/Aniplus.png" group-title="Kids",Aniplus
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
-#https://dl.dropbox.com/s/mqgqpnbbhcmnraj/Aniplus.m3u8?dl=0
+https://dl.dropbox.com/s/mqgqpnbbhcmnraj/Aniplus.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KrdMHKB/3-ABN-Kids.png" group-title="Kids", 3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
@@ -131,8 +130,7 @@ https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFX5h2r/FX-movie.png" group-title="Movies", FX
 https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(33b6be84-07ce-40ca-88e7-49b926a31a75)/manifest.mpd
-#https://dl.dropbox.com/s/v2yni1a6gy495sp/Warnertv.m3u8?dl=0
+https://dl.dropbox.com/s/v2yni1a6gy495sp/Warnertv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
 #https://jago.tv21.me/live/rayga/3456/usee/axn/index.m3u8
 http://210.210.155.66/h/h141/02.m3u8
@@ -165,11 +163,9 @@ https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KX8PLk/sony-one.png" group-title="Movies", Sony One
 https://anevia114.mncnow.id/live/eds/SetOne/sa_hls/SetOne-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bf5TRP/kix.png" group-title="Movies", Kix
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(a0a8e8d9-a739-4b8f-8969-5e4b0117d89f)/manifest.mpd
-#https://anevia115.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+https://anevia115.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8mxRjF/Celestial.png" group-title="Movies", Celestial Movies
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f0d17d70-9ed1-47f2-a490-91a85bba37a6)/manifest.mpd
-#https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W39RR2t/Waku-Waku-Japan.png" group-title="Movies", Waku-Waku Japan
 https://anevia115.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGSkBrn/Hits.png" group-title="Movies", Hits
@@ -180,8 +176,7 @@ https://anevia115.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=1
 https://anevia115.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
 #http://210.210.155.35/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbnj3wQ/Thrill.png" group-title="Movies", Thrill
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(5a027a4e-d6fd-45f0-95a3-10fee92cf8ac)/manifest.mpd
-#https://anevia115.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+https://anevia115.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
